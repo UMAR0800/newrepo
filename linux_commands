@@ -1,0 +1,48 @@
+Basic commands of ubuntu
+1.date = used to see the current date
+2. Ls = for list of directories and files
+3.mkdir= for creating directory/folder
+4.touch = for creating file
+5.clear= for clear terminal
+6.exit= for exit from terminal
+ctrl+alt+t= for opening of terminal
+history= for all commands
+Free = to know the memory
+df= total space and available space
+pwd=print working directory
+cd= for change directory
+Cd .. for go to previous directory
+Ls -l= list in long formet
+Ls =lt --reverse = in reverse order
+Ls -a for list
+Ls -d = directories list
+Ls -d -l = whole file
+Grep = to find the specific 
+Sort = is used to sort out the specific substances in a-z
+Cat =print the content of a file onto the standard output stream.
+Also with > extraction operator to direct contents into file
+Echo = to print any written thing on terminal
+chmod= change the permission of file to read,write or to executable
+Head and tail commands are used to show the contents of file from top or from head
+Echo * is used to show all the things in present directory
+In the same way as the ls *
+Echo * is for hidden files to show
+Ps =processes list
+Ps -l for list of processes
+Ps -s list of sleep processes
+Pstree = for all the processes in three form
+vmstat= for determining the memory of running processes
+Printenv = to print the whole environment 
+Set = show the lists in reaedable formet
+Alias = is used to set thecommand in your own easy formet
+Gedit filename = to directly open the file and edit it
+Storage media management commands
+Mount and unmount commands are used to mount and unmount the storage device making it to accessible and attaching with directory,
+Tail -f /var/log//messages = is used to see which actions are performed in the forms of commands.
+Df command= all activities
+Ping command= a utility that helps to test connectivity between two devices on a network. 	Netstat = to show connected things
+																			
+
+
+
+
